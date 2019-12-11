@@ -1,6 +1,6 @@
 # Iot-with-Bot`s
 
-This is the official repository with all code used By Eduardo Petecof and João Pedo P.P during their lecture about how to integrate IoT devices with Chatbots using IBM Cloud.
+!! This is the official repository with all code used By Eduardo Petecof and João Pedo P.P during their lecture about how to integrate IoT devices with Chatbots using IBM Cloud.
 
 If you want to reproduce this lecture first thing you need to do is create an acount in [IBM Cloud](https://bluemix.net)
 
